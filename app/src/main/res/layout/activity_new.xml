@@ -33,6 +33,7 @@
                     android:id="@+id/imageButton4"
                     android:layout_width="match_parent"
                     android:layout_height="195dp"
+                    android:layout_margin="5dp"
                     android:layout_weight="1"
                     android:padding="5dp"
                     app:srcCompat="@drawable/hill" />
@@ -57,6 +58,7 @@
                         android:id="@+id/imageButton3"
                         android:layout_width="wrap_content"
                         android:layout_height="195dp"
+                        android:layout_margin="5dp"
                         android:layout_weight="1"
                         android:padding="5dp"
                         android:scaleType="centerCrop"
@@ -73,6 +75,7 @@
                         android:id="@+id/imageButton2"
                         android:layout_width="wrap_content"
                         android:layout_height="195dp"
+                        android:layout_margin="5dp"
                         android:layout_weight="1"
                         android:padding="5dp"
                         android:scaleType="centerCrop"
